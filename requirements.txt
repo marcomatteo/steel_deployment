@@ -1,4 +1,4 @@
 fastai
 voila
-https://github.com/marcomatteo/steel_segmentation.git
+git+https://github.com/marcomatteo/steel_segmentation.git
 ipywidgets
